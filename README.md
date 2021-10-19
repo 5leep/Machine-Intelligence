@@ -1,3 +1,3 @@
 Machine-Intelligence
-Repo for MI labs and projects
+:robot: Repo for MI labs and projects, including Artificial Intelligence, Algorithms, and more.
 :robot:
