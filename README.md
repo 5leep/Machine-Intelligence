@@ -1,2 +1,3 @@
-:robot: Machine-Intelligence :robot:
+Machine-Intelligence
 Repo for MI labs and projects
+:robot:
